@@ -1,6 +1,4 @@
 import React from 'react'
-import Head from './components/Head'
-import Features from './components/Features'
 import "./App.css"
 import Button from './components/Button'
 export default function App() {
